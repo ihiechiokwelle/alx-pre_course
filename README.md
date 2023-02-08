@@ -1,2 +1,2 @@
-my_first_readme
-my_second_text
+my_first_readme.
+my_second_text.
